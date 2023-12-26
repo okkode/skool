@@ -1,2 +1,2 @@
-/bin
-/src/info.py
+bin/*
+!src/info.py
